@@ -1,6 +1,6 @@
 <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Anish Mahapatra</h1>
 
-[Screenshot 2024-10-05 191449](https://github.com/user-attachments/assets/b8aef401-8de1-4d1f-bd4b-697d0c9be5ce)
+![image](https://github.com/user-attachments/assets/f370731b-799b-4f27-a0b2-687443cc25cf)
 
 
 <p style="font-family: Georgia, serif; font-si!
